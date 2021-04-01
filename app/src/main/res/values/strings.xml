@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SearchRecyclerViewExample</string>
+
+    <string-array name="ingredients">
+        <item>燕麥</item>
+        <item>優格</item>
+        <item>吐司</item>
+        <item>蛋</item>
+        <item>吐司</item>
+        <item>牛奶</item>
+        <item>蔥</item>
+        <item>雞胸</item>
+        <item>去骨雞腿肉</item>
+        <item>菇</item>
+        <item>雞腿</item>
+    </string-array>
+
+</resources>
